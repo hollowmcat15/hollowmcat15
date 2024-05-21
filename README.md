@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi lol :)
+
+My name is MJ and I am just some dude who does programming and motion design
 
 <!--
 **hollowmcat15/hollowmcat15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
